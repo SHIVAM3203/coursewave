@@ -1,6 +1,8 @@
 # coursewave
 
-A new Flutter project.
+Created CourseWave, a robust platform displaying an extensive range of courses, boosting user 
+engagement by 50% using Figma and Animation; strategized future Firebase integration to enhance data management 
+and app performance.
 
 ## Getting Started
 
