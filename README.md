@@ -7,3 +7,7 @@ and app performance.
 ![App Screenshot](https://raw.githubusercontent.com/SHIVAM3203/coursewave/main/assets/images/1.png)
 # Login Screen
 ![App Screenshot](https://raw.githubusercontent.com/SHIVAM3203/coursewave/main/assets/images/iPhone%2014%20Pro%20Max%20-%204.png)
+# Main Screen
+![App Screenshot](https://raw.githubusercontent.com/SHIVAM3203/coursewave/main/assets/images/iPhone%2014%20Pro%20Max%20-%202.png)
+# Details Screen
+![App Screenshot](https://raw.githubusercontent.com/SHIVAM3203/coursewave/main/assets/images/iPhone%2014%20Pro%20Max%20-%203.png)
